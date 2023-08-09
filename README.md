@@ -12,7 +12,12 @@ Welcome to my GitHub profile! I'm Darren, interested in Computers, Automotive, a
 
 Here are some projects I'm proud of:
 
+I'm currently working on some of my first test projects to put here 
+
+<!--
 - [My first calculator](Link to Project 1) - Pretty straight forward. The first piece of code I tried, fixed, and got it to work.
+-->
+
 
 ## Contributions
 
